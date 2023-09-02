@@ -8,7 +8,7 @@ This repository maintains a list of individuals who have been identified as "ski
 
 ## zsld
 - <b>Aliases:</b> zenvunu
-- <b>Reason:</b> Claims to be a Minecraft server developer but lacks any development experience, having never worked with any programming language in their life despite their claims of expertise.
+- <b>Reason:</b> Claims to be a Minecraft server developer but lacks any development experience, having never worked with any programming language in their life despite their claims of expertise and dumb.
 
 ## Meteor
 - <b>Aliases:</b> iusemeteor
