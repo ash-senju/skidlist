@@ -30,7 +30,8 @@ Make sure to star this repository to show your support.
 
 ## zash
 - <b>Aliases:</b> zash.mx
-- <b>Reason:</b> Posing as a web developer, he inquired about the visual appeal and cleanliness of a website he claimed to be crafting. However, it was later revealed that he was merely copying code directly from Bootstrap 5's examples, falsely asserting authorship. Furthermore, he openly admitted to engaging in skidding activities in the past.
+- <b>Reason:</b> Posing as a web developer, he inquired about the visual appeal and cleanliness of a website he claimed to be crafting. However, it was later revealed that he was merely copying code .
+  he also proved that he can can make a website without any bootstrap or other frameworks help.
 
 ## Lugami
 - <b>Aliases:</b> Desistirei, Misureta
